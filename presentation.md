@@ -4972,6 +4972,7 @@ i <- 100
 
 .footnote[
   [ΑΕΠΠ Παράρτημα Α, Οδηγίες Μελέτης Μαθητή (2η Έκδοση), §3.6, σελ.53](books/22-0259.pdf#page=54)
+  [Τράπεζα Θεμάτων 24647_2](trapeza22_24647_2)
 ]
 
 ---
@@ -11831,3 +11832,5 @@ template: 1.3-2
 
 [themata_2021]: https://apps1.minedu.gov.gr/themata/PLHROFORIKH_NEO_HM_2021_10.pdf
 [themata_epan_2021]: https://apps1.minedu.gov.gr/themata/ΑΝΑΠΤΥΞΗ_ΕΦΑΡΜΟΓΩΝ_ΕΠΑΝΑΛ_2021_17.pdf
+
+[trapeza22_24647_2]: https://www.dropbox.com/s/8ez0qj5wu4rhiqf/24647.pdf?dl=0
