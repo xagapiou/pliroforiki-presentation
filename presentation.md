@@ -2726,7 +2726,7 @@ template: switch-examples
   - [2020 (Νέο Σύστημα) / Θέμα Β1][themata_ns_2020]
 - `ΑΝ` ⇒ `ΕΠΙΛΕΞΕ`
   - [2021 / Θέμα Α4][themata_2021]
-  - [Τράπεζα Θεμάτων 25947][https://www.dropbox.com/s/th9bg9sl57o1miy/25947.pdf?dl=0]
+  - [Τράπεζα Θεμάτων 25947][trapeza22_25947]
 
 ---
 layout: true
